@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="question_1"> ((2^2)^3) = 2^5</string>
+    <string name="question_2">The slope of a vertical line is undefined.</string>
+    <string name="question_3">Two lines with positive slopes can be perpendicular.</string> //false
+    <string name="question_4"> 5 is greater than 10 or 5 is greater than 7.</string> //true
+    <string name="question_5">The set of ordered pairs {(6,4),(2,-5),(-2,4),(6,-4)} is a function.</string> //false
+    <string name="question_6">The additive inverse of -10 is 10.</string> //true
+    <string name="question_7">The product of two positive numbers is NOT positive.</string> //false
+    <string name="question_8">x + 2 = 7 is called an inequality.</string> //false
+    <string name="question_9">The associative property is used to write 4x + 8y = 4(x + 2y).</string> //false
+
+
+
+
+</resources>

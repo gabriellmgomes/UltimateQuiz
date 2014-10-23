@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="history_question_1">Christopher Columbus sailed the ocean blue in 1492.</string>
+    <string name="history_question_2">George Washington was the first American president.</string>
+    <string name="history_question_3">In 1900, Andrew Carnegie earned $23 million</string>
+    <string name="history_question_4">The Haymarket Affair resulted in the hanging of four convicted anarchists.</string>
+    <string name="history_question_5">Wage reductions were commonplace during economic downturns.</string>
+    <string name="history_question_6">The West was a remarkably homogeneous region—only in the twentieth century would it become ethnically diverse.</string>
+    <string name="history_question_7">Cleopatra was the first egyptian women to become pharaoh. </string>
+    <string name="history_question_8">The UN has never taken a stand on the issue of human rights.</string>
+    <string name="history_question_9">A Republican majority in Congress was maintained when Grant was elected president.</string>
+
+
+</resources>

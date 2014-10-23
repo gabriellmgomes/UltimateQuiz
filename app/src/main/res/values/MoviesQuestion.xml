@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string name="movie_question_1">More than 5 actors have portrayed James Bond</string> //true
+    <string name="movie_question_2">Zoolander\'s first name is Derek?</string> //true
+    <string name="movie_question_3">Michael Bay uses a lot of explosives in his movies</string>  //true
+    <string name="movie_question_4">Christopher Nolan directed the Batman trilogy</string> //true
+    <string name="movie_question_5">The epic movie "300" is a story of Spartan warriors facing off against the Persian empire.</string> //true
+
+
+
+</resources>

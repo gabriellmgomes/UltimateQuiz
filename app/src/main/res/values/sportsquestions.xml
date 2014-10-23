@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string name="sports_question_1">The Giants play in New York</string>
+    <string name="sports_question_2">The FIFA World Cup is held every 4 years.</string>
+    <string name="sports_question_3">The next two World Cups will be held in Russia (2018) and Qatar (2022)</string> //true
+    <string name="sports_question_4">The official ball of the 2014 World Cup made by Nike is called Brazuca.</string> //false
+    <string name="sports_question_5">Only South American and European countries have won a World Cup</string> //true
+    <string name="sports_question_6">No host country had ever been eliminated in the first round</string> //false
+
+
+</resources>
